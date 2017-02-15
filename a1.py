@@ -1,7 +1,7 @@
 #a1.py
-#Jennifer Lin (jl3263)
+#Jennifer Lin
 #September 18, 2016
-#Ingrid Libman (iml29) & Kristy Liao (kpl44) helped with some of these functions.
+#Ingrid Libman & Kristy Liao helped with some of these functions.
 """Module for implementing a1 functions.
 
 This module is divided into several parts. Part A has 2 functions: before_space
