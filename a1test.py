@@ -1,7 +1,7 @@
 #a1test.py
-#Jennifer Lin (jl3263)
+#Jennifer Lin
 #September 18, 2016
-#Some of these test cases were suggested by Nancy Shen (nws37).
+#Some of these test cases were suggested by Nancy Shen.
 """Unit test for module a1
 
 When run as a script, this module invokes several procedures that 
